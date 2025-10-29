@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32bc51cf.css",
+    "main.js": "/static/js/main.024511f6.js",
+    "static/js/453.31b42e1e.chunk.js": "/static/js/453.31b42e1e.chunk.js",
+    "static/media/backgroundImage.png": "/static/media/backgroundImage.8bec93393a1344300506.png",
+    "static/media/rating.png": "/static/media/rating.d5d80a460344035ad53d.png",
+    "static/media/Logo.png": "/static/media/Logo.66eab7f94d69e6ad6990.png",
+    "static/media/favicon.ico": "/static/media/favicon.b6ad1d98ed3318b1e9f7.ico",
+    "static/media/Setting.svg": "/static/media/Setting.2a745d62f337febeadb950c17e00d5e9.svg",
+    "static/media/EditTextIcon.svg": "/static/media/EditTextIcon.7b0b120b000c8deda801c39334805ca3.svg",
+    "static/media/changeIcon.svg": "/static/media/changeIcon.4252079176f4107094ae2a0db8ea06e4.svg",
+    "static/media/heartFill.svg": "/static/media/heartFill.8cac5aee25a3d354c68c127420e04295.svg",
+    "static/media/HeartUnfilled.svg": "/static/media/HeartUnfilled.df74d201bfbb0f3542d7bf0d7e8e151c.svg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.f6d03137e8c9dd0de04c.cjs",
+    "static/media/viewAll.svg": "/static/media/viewAll.027aa38e3f91bb588319b3b44ab45d7c.svg",
+    "main.32bc51cf.css.map": "/static/css/main.32bc51cf.css.map",
+    "main.024511f6.js.map": "/static/js/main.024511f6.js.map",
+    "453.31b42e1e.chunk.js.map": "/static/js/453.31b42e1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bc51cf.css",
+    "static/js/main.024511f6.js"
+  ]
+}
